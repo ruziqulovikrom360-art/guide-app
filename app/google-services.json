@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "774040915721",
+    "project_id": "guide-app-c7274",
+    "storage_bucket": "guide-app-c7274.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774040915721:android:0f08805f4aebc45664cdd8",
+        "android_client_info": {
+          "package_name": "com.example.guidemetestapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy4LiqD9QjKtA6FV0hMDxzbhOjB0eyfus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
